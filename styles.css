@@ -1,0 +1,32 @@
+/**********************Tag Selectors*******************/
+
+body {
+  background-color: #E8C9AB;
+}
+
+h1 {
+  color: #432818;
+  font-size: 85px
+}
+
+p {
+  font-size: 35px
+}
+
+/*
+img {
+  background-color: #99582A;
+}
+*/
+
+/**************************Class Selectors****************************/
+
+.bacon {
+  background-color: green;
+}
+
+.broccoli {
+  background-color: red;
+}
+
+/**************************ID Selectors****************************/
